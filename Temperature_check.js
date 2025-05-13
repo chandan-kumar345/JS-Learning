@@ -7,5 +7,5 @@ else if(  temprature < 30 && temprature > 20)
 {
     console.log("cool & hot temperature");
 }
-else
-    console.log("cool temperature");
+//else
+//    console.log("cool temperature");
